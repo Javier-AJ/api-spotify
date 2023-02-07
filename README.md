@@ -1,2 +1,2 @@
 # api-spotify
-Desarrollo beta para prueba técnica Kokonut
+Desarrollo beta para prueba técnica
